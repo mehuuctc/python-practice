@@ -1,2 +1,8 @@
-# python-practice
-Python practice problems and beginner projects.
+
+# Data Analysis Learning
+
+Topics:
+- Excel
+- SQL
+- Python
+- Power BI
